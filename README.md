@@ -1,6 +1,7 @@
 # euler-and-solve_ivp
 
 ## Plotting solutions to the rigid pendulum problem
+# mm
 
 In this assignment, we explore the solution to the undriven rigid pendulum using: the Euler code we wrote in class, and the `scipy.integrate` package.
 
